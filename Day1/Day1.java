@@ -1,3 +1,5 @@
+//Write a program to which will store details of a student and print the details using the above class.
+
 import java.util.Scanner;
 
 class Student{
